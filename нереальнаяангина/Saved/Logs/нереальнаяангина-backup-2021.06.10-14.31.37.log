@@ -1,0 +1,1574 @@
+﻿Log file open, 06/10/21 11:17:17
+LogInit:Display: Running engine for game: нереальнаяангина
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(313097684) SRandInit(313097684).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.082707
+LogPluginManager: Loaded Plugin Paper2D, From D:/Epic Games/UE_4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From D:/Epic Games/UE_4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From D:/Epic Games/UE_4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From D:/Epic Games/UE_4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From D:/Epic Games/UE_4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From D:/Epic Games/UE_4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From D:/Epic Games/UE_4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From D:/Epic Games/UE_4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From D:/Epic Games/UE_4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From D:/Epic Games/UE_4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From D:/Epic Games/UE_4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From D:/Epic Games/UE_4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From D:/Epic Games/UE_4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From D:/Epic Games/UE_4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From D:/Epic Games/UE_4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From D:/Epic Games/UE_4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From D:/Epic Games/UE_4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From D:/Epic Games/UE_4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From D:/Epic Games/UE_4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From D:/Epic Games/UE_4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From D:/Epic Games/UE_4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From D:/Epic Games/UE_4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From D:/Epic Games/UE_4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From D:/Epic Games/UE_4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From D:/Epic Games/UE_4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From D:/Epic Games/UE_4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From D:/Epic Games/UE_4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From D:/Epic Games/UE_4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From D:/Epic Games/UE_4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From D:/Epic Games/UE_4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From D:/Epic Games/UE_4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From D:/Epic Games/UE_4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From D:/Epic Games/UE_4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From D:/Epic Games/UE_4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From D:/Epic Games/UE_4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From D:/Epic Games/UE_4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From D:/Epic Games/UE_4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From D:/Epic Games/UE_4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From D:/Epic Games/UE_4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From D:/Epic Games/UE_4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From D:/Epic Games/UE_4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From D:/Epic Games/UE_4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From D:/Epic Games/UE_4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From D:/Epic Games/UE_4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From D:/Epic Games/UE_4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From D:/Epic Games/UE_4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From D:/Epic Games/UE_4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From D:/Epic Games/UE_4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From D:/Epic Games/UE_4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From D:/Epic Games/UE_4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From D:/Epic Games/UE_4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From D:/Epic Games/UE_4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From D:/Epic Games/UE_4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From D:/Epic Games/UE_4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From D:/Epic Games/UE_4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From D:/Epic Games/UE_4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line: 
+LogInit: Base directory: D:/Epic Games/UE_4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2021.06.10-08.17.17:582][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.10-08.17.17:582][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.10-08.17.17:598][  0]LogInit: Computer: NCH-NTC-01
+[2021.06.10-08.17.17:598][  0]LogInit: User: Student
+[2021.06.10-08.17.17:598][  0]LogInit: CPU Page size=65536, Cores=4
+[2021.06.10-08.17.17:598][  0]LogInit: High frequency timer resolution =3.312841 MHz
+[2021.06.10-08.17.17:598][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.06.10-08.17.17:598][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.10-08.17.17:598][  0]LogMemory: Process Physical Memory: 257.19 MB used, 257.19 MB peak
+[2021.06.10-08.17.17:598][  0]LogMemory: Process Virtual Memory: 261.55 MB used, 261.55 MB peak
+[2021.06.10-08.17.17:598][  0]LogMemory: Physical Memory: 1760.89 MB used, 8096.30 MB total
+[2021.06.10-08.17.17:598][  0]LogMemory: Virtual Memory: 588.88 MB used, 8388608.00 MB total
+[2021.06.10-08.17.17:636][  0]LogTextLocalizationManager: No translations for ('ru-RU') exist, falling back to 'en' for localization and internationalization data.
+[2021.06.10-08.17.18:081][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.10-08.17.18:098][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 660' (Feature Level 11_0)
+[2021.06.10-08.17.18:098][  0]LogD3D11RHI:       1484/0/2559 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.06.10-08.17.18:098][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.10-08.17.18:101][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.10-08.17.18:101][  0]LogD3D11RHI:     GPU DeviceId: 0x1185 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.10-08.17.18:101][  0]LogWindows: EnumDisplayDevices:
+[2021.06.10-08.17.18:101][  0]LogWindows:    0. 'NVIDIA GeForce GTX 660' (P:1 D:1)
+[2021.06.10-08.17.18:101][  0]LogWindows:    1. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2021.06.10-08.17.18:102][  0]LogWindows:    2. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2021.06.10-08.17.18:102][  0]LogWindows:    3. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2021.06.10-08.17.18:102][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2021.06.10-08.17.18:102][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2021.06.10-08.17.18:102][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2021.06.10-08.17.18:102][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.06.10-08.17.18:102][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 660
+[2021.06.10-08.17.18:102][  0]LogD3D11RHI:   Driver Version: 311.41 (internal:9.18.13.1141, unified:311.41)
+[2021.06.10-08.17.18:102][  0]LogD3D11RHI:      Driver Date: 3-7-2013
+[2021.06.10-08.17.18:102][  0]LogRHI: Texture pool is 1039 MB (70% of 1484 MB)
+[2021.06.10-08.17.18:110][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.10-08.17.18:120][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.06.10-08.17.20:826][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2021.06.10-08.17.20:826][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (C:/Users/Student/Desktop/CОN/нереальнаяангина/Intermediate/Shaders/WorkingDirectory/3856/).
+[2021.06.10-08.17.20:826][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Student/AppData/Local/Temp/UnrealShaderWorkingDir/B1F1ACEE44921E30696D029A3968F001/'.
+[2021.06.10-08.17.20:826][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2021.06.10-08.17.21:592][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2021.06.10-08.17.21:599][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2021.06.10-08.17.21:605][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2021.06.10-08.17.21:611][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2021.06.10-08.17.21:617][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2021.06.10-08.17.21:623][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2021.06.10-08.17.21:628][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2021.06.10-08.17.21:633][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2021.06.10-08.17.21:639][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2021.06.10-08.17.21:644][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2021.06.10-08.17.21:650][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2021.06.10-08.17.21:661][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2021.06.10-08.17.21:661][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2021.06.10-08.17.21:661][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2021.06.10-08.17.21:679][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2021.06.10-08.17.21:684][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2021.06.10-08.17.21:689][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2021.06.10-08.17.21:695][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2021.06.10-08.17.21:700][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2021.06.10-08.17.21:706][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2021.06.10-08.17.21:706][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2021.06.10-08.17.21:751][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2021.06.10-08.17.21:809][  0]LogDerivedDataCache: Loaded boot cache 0.06s 62MB C:/Users/Student/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2021.06.10-08.17.21:809][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Student/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2021.06.10-08.17.21:809][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Student/Desktop/CОN/нереальнаяангина/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.10-08.17.21:809][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.10-08.17.21:809][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Student/Desktop/CОN/нереальнаяангина/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.10-08.17.21:809][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.06.10-08.17.21:824][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.10-08.17.21:835][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.06.10-08.17.21:992][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.10-08.17.21:993][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2021.06.10-08.17.21:994][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2021.06.10-08.17.22:102][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2021.06.10-08.17.22:102][  0]LogMeshUtilities: No automatic mesh merging module available
+[2021.06.10-08.17.22:102][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2021.06.10-08.17.22:413][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: нереальнаяангина, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 2099571810
+[2021.06.10-08.17.22:444][  0]LogAssetRegistry: FAssetRegistry took 0.0198 seconds to start up
+[2021.06.10-08.17.22:459][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.013994 seconds
+[2021.06.10-08.17.22:464][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2021.06.10-08.17.22:464][  0]LogUObjectAllocator: 6125456 out of 0 bytes used by permanent object pool.
+[2021.06.10-08.17.22:464][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.10-08.17.22:468][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2021.06.10-08.17.22:624][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.10-08.17.22:624][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.10-08.17.23:126][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.10-08.17.23:140][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.10-08.17.23:314][  0]SourceControl: Info Source control is disabled
+[2021.06.10-08.17.23:314][  0]SourceControl: Info Source control is disabled
+[2021.06.10-08.17.23:320][  0]SourceControl: Info Source control is disabled
+[2021.06.10-08.17.23:324][  0]SourceControl: Info Source control is disabled
+[2021.06.10-08.17.23:484][  0]LogEngine: Initializing Engine...
+[2021.06.10-08.17.23:484][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.10-08.17.23:601][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.10-08.17.23:607][  0]LogInit: No audio devices found!
+[2021.06.10-08.17.23:637][  0]LogDerivedDataCache: Saved boot cache 0.03s 62MB C:/Users/Student/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2021.06.10-08.17.23:646][  0]LogInit: Texture streaming: Enabled
+[2021.06.10-08.17.23:667][  0]LogInit: Transaction tracking system initialized
+[2021.06.10-08.17.23:679][  0]BlueprintLog: New page: Editor Load
+[2021.06.10-08.17.23:722][  0]LocalizationService: Info Localization service is disabled
+[2021.06.10-08.17.23:774][  0]LogConsoleResponse:Display: 
+[2021.06.10-08.17.23:857][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.06.10-08.17.23:857][  0]LogCook:Display: Mobile HDR setting 1
+[2021.06.10-08.17.23:943][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Student/Desktop/CОN/нереальнаяангина/Content/' took 0.01s
+[2021.06.10-08.17.23:943][  0]SourceControl: Info Source control is disabled
+[2021.06.10-08.17.23:943][  0]Cmd: MAP LOAD FILE="C:/Users/Student/Desktop/CОN/нереальнаяангина/Content/uuuu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.10-08.17.23:949][  0]LightingResults: New page: Lighting Build
+[2021.06.10-08.17.23:951][  0]MapCheck: New page: Map Check
+[2021.06.10-08.17.23:951][  0]LightingResults: New page: Lighting Build
+[2021.06.10-08.17.24:533][  0]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.17.24:542][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.10-08.17.24:542][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.10-08.17.24:573][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 30.388ms to complete.
+[2021.06.10-08.17.24:573][  0]LogFileHelpers: Loading map 'uuuu' took 0.630
+[2021.06.10-08.17.24:660][  0]LogCollectionManager: Loaded 0 collections in 0.000902 seconds
+[2021.06.10-08.17.24:695][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Collections/' took 0.01s
+[2021.06.10-08.17.24:695][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Student/Desktop/CОN/нереальнаяангина/Content/Developers/Student/Collections/' took 0.01s
+[2021.06.10-08.17.24:695][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Student/Desktop/CОN/нереальнаяангина/Content/Collections/' took 0.01s
+[2021.06.10-08.17.24:695][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2021.06.10-08.17.24:703][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2141 classes and 415 folders.
+[2021.06.10-08.17.24:705][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.06.10-08.17.24:705][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.06.10-08.17.24:706][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0004 seconds. Added 12 classes and 0 folders.
+[2021.06.10-08.17.24:708][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.10-08.17.24:736][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.06.10-08.17.24:740][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2021.06.10-08.17.24:760][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2021.06.10-08.17.24:779][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2021.06.10-08.17.24:804][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2021.06.10-08.17.24:805][  0]LogLoad: (Engine Initialization) Total time: 7.96 seconds
+[2021.06.10-08.17.24:805][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.06 seconds
+[2021.06.10-08.17.24:805][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2021.06.10-08.17.25:146][  0]LogOcInput: OculusInput pre-init called
+[2021.06.10-08.17.25:165][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.10-08.17.25:296][  0]LogRenderer: Reallocating scene render targets to support 1208x688 (Frame:2).
+[2021.06.10-08.17.25:761][  1]LogHttp:Warning: 0000000023364280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.17.25:761][  1]LogHttp:Warning: 0000000023364280: libcurl info message cache 8 (Could not resolve host: cdn.unrealengine.com)
+[2021.06.10-08.17.25:761][  1]LogHttp:Warning: 0000000023364280: libcurl info message cache 9 (Closing connection 0)
+[2021.06.10-08.17.25:782][  1]LogAssetRegistry: Asset discovery search completed in 3.3581 seconds
+[2021.06.10-08.17.25:782][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2021.06.10-08.17.25:782][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000019 seconds (updated 0 objects)
+[2021.06.10-08.17.25:806][  2]LogHttp:Warning: 0000000037C28D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.17.25:806][  2]LogHttp:Warning: 0000000037C28D00: libcurl info message cache 8 (Could not resolve host: cdn.unrealengine.com)
+[2021.06.10-08.17.25:806][  2]LogHttp:Warning: 0000000037C28D00: libcurl info message cache 9 (Closing connection 1)
+[2021.06.10-08.17.26:123][  3]LogHttp:Warning: 000000003CFDAE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.17.26:123][  3]LogHttp:Warning: 000000003CFDAE00: libcurl info message cache 8 (Could not resolve host: cdn.unrealengine.com)
+[2021.06.10-08.17.26:123][  3]LogHttp:Warning: 000000003CFDAE00: libcurl info message cache 9 (Closing connection 2)
+[2021.06.10-08.17.29:192][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.17.29:192][ 14]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:17:29 PM)
+[2021.06.10-08.17.29:192][ 14]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.17.29:197][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004372s)
+[2021.06.10-08.17.29:199][ 14]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.17.29:199][ 14]LogPlayLevel: PIE: World Init took: (0.001976s)
+[2021.06.10-08.17.29:199][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.006538s)
+[2021.06.10-08.17.29:483][ 14]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.17.29:487][ 14]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.17.29
+[2021.06.10-08.17.29:498][ 14]LogWorld: Bringing up level for play took: 0.013114
+[2021.06.10-08.17.29:501][ 14]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2021.06.10-08.17.29:501][ 14]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.17.29:501][ 14]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.17.29:502][ 14]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.17.29:502][ 14]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.17.29:502][ 14]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu -0.395
+[2021.06.10-08.17.46:957][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2021.06.10-08.17.49:052][ 20]Cmd: DELETE
+[2021.06.10-08.17.49:052][ 20]Cmd: ACTOR DELETE
+[2021.06.10-08.17.49:074][ 20]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.10-08.17.49:081][ 20]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.06.10-08.17.58:573][144]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.17.58:573][144]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:17:58 PM)
+[2021.06.10-08.17.58:573][144]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.17.58:576][144]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002866s)
+[2021.06.10-08.17.58:577][144]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.17.58:577][144]LogPlayLevel: PIE: World Init took: (0.001054s)
+[2021.06.10-08.17.58:577][144]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.004143s)
+[2021.06.10-08.17.58:614][144]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.17.58:617][144]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.17.58
+[2021.06.10-08.17.58:618][144]LogWorld: Bringing up level for play took: 0.002482
+[2021.06.10-08.17.58:618][144]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.17.58:618][144]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.17.58:618][144]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.17.58:619][144]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.17.58:619][144]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu 0.721
+[2021.06.10-08.18.24:884][973]LogHttp:Warning: 000000001FC6C100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.18.24:884][973]LogHttp:Warning: 000000001FC6C100: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.06.10-08.18.24:884][973]LogHttp:Warning: 000000001FC6C100: libcurl info message cache 9 (Closing connection 3)
+[2021.06.10-08.18.27:405][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.10-08.18.39:068][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.06.10-08.18.40:389][793]Cmd: DELETE
+[2021.06.10-08.18.40:389][793]Cmd: ACTOR DELETE
+[2021.06.10-08.18.40:389][793]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.10-08.18.40:396][793]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.06.10-08.18.41:210][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2021.06.10-08.18.41:336][898]Cmd: DELETE
+[2021.06.10-08.18.41:336][898]Cmd: ACTOR DELETE
+[2021.06.10-08.18.41:337][898]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.10-08.18.41:343][898]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.06.10-08.18.41:757][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.06.10-08.18.41:883][958]Cmd: DELETE
+[2021.06.10-08.18.41:883][958]Cmd: ACTOR DELETE
+[2021.06.10-08.18.41:883][958]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.10-08.18.41:892][958]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.06.10-08.18.42:644][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.06.10-08.18.42:835][ 67]Cmd: DELETE
+[2021.06.10-08.18.42:835][ 67]Cmd: ACTOR DELETE
+[2021.06.10-08.18.42:836][ 67]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.10-08.18.42:844][ 67]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.06.10-08.18.43:536][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.10-08.18.44:052][205]LogEditorViewport: Clicking on Actor (LMB): door_C (рр)
+[2021.06.10-08.18.44:548][260]Cmd: DELETE
+[2021.06.10-08.18.44:548][260]Cmd: ACTOR DELETE
+[2021.06.10-08.18.46:881][260]LogEditorActor: Deleted Actor: door_C
+[2021.06.10-08.18.46:887][260]LogEditorActor: Deleted 1 Actors (2.339 secs)
+[2021.06.10-08.18.49:781][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.18.49:781][599]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:18:49 PM)
+[2021.06.10-08.18.49:781][599]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.18.49:784][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002299s)
+[2021.06.10-08.18.49:785][599]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.18.49:785][599]LogPlayLevel: PIE: World Init took: (0.001181s)
+[2021.06.10-08.18.49:785][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.003670s)
+[2021.06.10-08.18.49:819][599]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.18.49:822][599]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.18.49
+[2021.06.10-08.18.49:822][599]LogWorld: Bringing up level for play took: 0.001648
+[2021.06.10-08.18.49:822][599]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.18.49:823][599]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.18.49:823][599]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.18.49:823][599]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.18.49:823][599]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu -0.078
+[2021.06.10-08.19.06:800][389]LogEditorViewport: Clicking on Actor (LMB): button_C (button2)
+[2021.06.10-08.19.08:110][520]Cmd: DELETE
+[2021.06.10-08.19.08:110][520]Cmd: ACTOR DELETE
+[2021.06.10-08.19.08:110][520]LogEditorActor: Deleted Actor: button_C
+[2021.06.10-08.19.08:120][520]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.06.10-08.19.09:193][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.19.09:193][631]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:19:09 PM)
+[2021.06.10-08.19.09:193][631]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.19.09:196][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002665s)
+[2021.06.10-08.19.09:197][631]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.19.09:197][631]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2021.06.10-08.19.09:197][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.003497s)
+[2021.06.10-08.19.09:229][631]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.19.09:231][631]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.19.09
+[2021.06.10-08.19.09:232][631]LogWorld: Bringing up level for play took: 0.001681
+[2021.06.10-08.19.09:232][631]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.19.09:232][631]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.19.09:232][631]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.19.09:233][631]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.19.09:233][631]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu -0.67
+[2021.06.10-08.19.36:058][667]LogActorFactory: Actor Factory created Cube
+[2021.06.10-08.19.38:183][921]LogActorFactory: Actor Factory created Cube
+[2021.06.10-08.19.49:852][306]LogHttp:Warning: 000000001FC29780: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.19.49:852][306]LogHttp:Warning: 000000001FC29780: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.06.10-08.19.49:852][306]LogHttp:Warning: 000000001FC29780: libcurl info message cache 9 (Closing connection 4)
+[2021.06.10-08.20.06:389][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.06.10-08.20.10:908][790]Cmd: EDIT COPY
+[2021.06.10-08.20.11:184][823]Cmd: EDIT PASTE
+[2021.06.10-08.20.17:357][554]Cmd: EDIT COPY
+[2021.06.10-08.20.17:598][582]Cmd: EDIT PASTE
+[2021.06.10-08.20.31:613][239]Cmd: EDIT COPY
+[2021.06.10-08.20.31:880][271]Cmd: EDIT PASTE
+[2021.06.10-08.20.35:154][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.10-08.20.35:271][660]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.06.10-08.20.36:260][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2021.06.10-08.20.39:252][105]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.20.39:252][105]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:20:39 PM)
+[2021.06.10-08.20.39:252][105]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.20.39:255][105]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002734s)
+[2021.06.10-08.20.39:256][105]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.20.39:256][105]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2021.06.10-08.20.39:256][105]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.004012s)
+[2021.06.10-08.20.39:292][105]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.20.39:295][105]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.20.39
+[2021.06.10-08.20.39:295][105]LogWorld: Bringing up level for play took: 0.001741
+[2021.06.10-08.20.39:296][105]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.20.39:296][105]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.20.39:296][105]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.20.39:296][105]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.20.39:296][105]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu -0.611
+[2021.06.10-08.21.17:361][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.06.10-08.21.29:375][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2021.06.10-08.21.39:282][850]LogHttp:Warning: 000000001FC23880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.21.39:282][850]LogHttp:Warning: 000000001FC23880: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.06.10-08.21.39:282][850]LogHttp:Warning: 000000001FC23880: libcurl info message cache 9 (Closing connection 5)
+[2021.06.10-08.21.55:411][ 69]LogTexture:Display: Building textures: T_Spark_Core (AutoDXT)
+[2021.06.10-08.21.56:601][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.06.10-08.22.14:184][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.10-08.22.15:210][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.10-08.22.15:607][419]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.10-08.22.16:460][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.10-08.22.17:377][621]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.10-08.22.17:712][657]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.10-08.22.17:954][683]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.10-08.22.18:050][691]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2021.06.10-08.22.21:703][115]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2021.06.10-08.22.24:650][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.06.10-08.22.25:422][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.10-08.22.26:188][639]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.10-08.22.27:780][824]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.10-08.22.30:642][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.06.10-08.22.44:139][282]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2021.06.10-08.22.44:260][282]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2021.06.10-08.22.44:274][282]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2021.06.10-08.22.44:301][282]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.06.10-08.22.46:372][398]MaterialEditorStats: Info Base pass shader with static lighting: 221 instructions
+[2021.06.10-08.22.46:372][398]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 202 instructions
+[2021.06.10-08.22.46:372][398]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 238 instructions
+[2021.06.10-08.22.46:372][398]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2021.06.10-08.22.46:372][398]MaterialEditorStats: Info Texture samplers: 8/16
+[2021.06.10-08.23.10:947][805]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.10-08.23.12:110][941]Cmd: TRANSACTION UNDO
+[2021.06.10-08.23.12:110][941]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.10-08.23.12:406][964]Cmd: TRANSACTION UNDO
+[2021.06.10-08.23.12:406][964]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.10-08.23.12:712][986]Cmd: TRANSACTION UNDO
+[2021.06.10-08.23.12:712][986]LogEditorTransaction: Undo Move Actors
+[2021.06.10-08.23.13:050][ 21]Cmd: TRANSACTION UNDO
+[2021.06.10-08.23.13:050][ 21]LogEditorTransaction: Undo Replace component used material
+[2021.06.10-08.23.13:525][ 72]Cmd: TRANSACTION UNDO
+[2021.06.10-08.23.13:525][ 72]LogEditorTransaction: Undo Replace component used material
+[2021.06.10-08.23.13:836][108]Cmd: TRANSACTION UNDO
+[2021.06.10-08.23.13:836][108]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.10-08.23.14:163][144]Cmd: TRANSACTION UNDO
+[2021.06.10-08.23.14:163][144]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.10-08.23.14:493][182]Cmd: TRANSACTION UNDO
+[2021.06.10-08.23.14:493][182]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.10-08.23.14:769][211]Cmd: TRANSACTION UNDO
+[2021.06.10-08.23.14:769][211]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.10-08.23.15:101][248]Cmd: TRANSACTION UNDO
+[2021.06.10-08.23.15:101][248]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.10-08.23.15:424][284]Cmd: TRANSACTION UNDO
+[2021.06.10-08.23.15:424][284]LogEditorTransaction: Undo Clicking on Components
+[2021.06.10-08.23.15:714][317]Cmd: TRANSACTION UNDO
+[2021.06.10-08.23.15:714][317]LogEditorTransaction: Undo Clicking on Components
+[2021.06.10-08.23.16:047][354]Cmd: TRANSACTION UNDO
+[2021.06.10-08.23.16:047][354]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.10-08.23.16:352][389]Cmd: TRANSACTION UNDO
+[2021.06.10-08.23.16:352][389]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.10-08.23.16:730][433]Cmd: TRANSACTION UNDO
+[2021.06.10-08.23.16:730][433]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.10-08.23.17:133][477]Cmd: TRANSACTION UNDO
+[2021.06.10-08.23.17:133][477]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.10-08.23.17:537][522]Cmd: TRANSACTION UNDO
+[2021.06.10-08.23.17:537][522]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.10-08.23.18:017][575]Cmd: TRANSACTION UNDO
+[2021.06.10-08.23.18:017][575]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.10-08.23.18:378][617]Cmd: TRANSACTION UNDO
+[2021.06.10-08.23.18:378][617]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.10-08.23.18:884][675]Cmd: TRANSACTION UNDO
+[2021.06.10-08.23.18:884][675]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.10-08.23.19:330][724]Cmd: TRANSACTION UNDO
+[2021.06.10-08.23.19:330][724]LogEditorTransaction: Undo Replace component used material
+[2021.06.10-08.23.25:218][427]LogHttp:Warning: 000000001FC21900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.23.25:218][427]LogHttp:Warning: 000000001FC21900: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.06.10-08.23.25:218][427]LogHttp:Warning: 000000001FC21900: libcurl info message cache 9 (Closing connection 6)
+[2021.06.10-08.24.15:494][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.10-08.24.15:962][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.06.10-08.24.19:433][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.06.10-08.24.22:018][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.06.10-08.24.24:943][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.10-08.24.30:279][182]LogMaterial: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2021.06.10-08.24.30:354][182]LogMaterial: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2021.06.10-08.24.30:365][182]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2021.06.10-08.24.30:390][182]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2021.06.10-08.24.30:393][182]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2021.06.10-08.24.30:397][182]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2021.06.10-08.24.30:401][182]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_9, compiling. 
+[2021.06.10-08.24.30:404][182]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2021.06.10-08.24.30:409][182]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2021.06.10-08.24.30:413][182]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2021.06.10-08.24.30:420][182]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_6, compiling. 
+[2021.06.10-08.24.30:425][182]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_7, compiling. 
+[2021.06.10-08.24.30:428][182]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_8, compiling. 
+[2021.06.10-08.24.31:452][234]MaterialEditorStats: Info Base pass shader with static lighting: 84 instructions
+[2021.06.10-08.24.31:452][234]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2021.06.10-08.24.31:452][234]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2021.06.10-08.24.31:452][234]MaterialEditorStats: Info Texture samplers: 6/16
+[2021.06.10-08.24.43:681][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.24.43:681][132]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:24:43 PM)
+[2021.06.10-08.24.43:681][132]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.24.43:684][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002617s)
+[2021.06.10-08.24.43:684][132]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.24.43:685][132]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2021.06.10-08.24.43:685][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.003453s)
+[2021.06.10-08.24.43:723][132]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.24.43:726][132]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.24.43
+[2021.06.10-08.24.43:726][132]LogWorld: Bringing up level for play took: 0.001945
+[2021.06.10-08.24.43:726][132]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.24.43:726][132]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.24.43:726][132]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.24.43:727][132]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.24.43:727][132]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu -0.195
+[2021.06.10-08.25.01:922][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere4)
+[2021.06.10-08.25.04:295][446]Cmd: DELETE
+[2021.06.10-08.25.04:295][446]Cmd: ACTOR DELETE
+[2021.06.10-08.25.04:296][446]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.10-08.25.04:303][446]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.06.10-08.25.05:336][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere5)
+[2021.06.10-08.25.05:647][588]Cmd: DELETE
+[2021.06.10-08.25.05:647][588]Cmd: ACTOR DELETE
+[2021.06.10-08.25.05:648][588]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.10-08.25.05:655][588]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.06.10-08.25.06:047][632]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.06.10-08.25.06:343][657]Cmd: DELETE
+[2021.06.10-08.25.06:343][657]Cmd: ACTOR DELETE
+[2021.06.10-08.25.06:344][657]LogEditorActor: Deleted Actor: SpotLight
+[2021.06.10-08.25.06:359][657]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.06.10-08.25.06:951][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.10-08.25.07:514][778]LogEditorViewport: Clicking on Actor (LMB): Blueprint_WallSconce_C (Blueprint_WallSconce)
+[2021.06.10-08.25.08:159][846]Cmd: DELETE
+[2021.06.10-08.25.08:159][846]Cmd: ACTOR DELETE
+[2021.06.10-08.25.08:160][846]LogEditorActor: Deleted Actor: Blueprint_WallSconce_C
+[2021.06.10-08.25.08:175][846]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.06.10-08.25.10:260][ 96]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2021.06.10-08.25.12:833][400]Cmd: DELETE
+[2021.06.10-08.25.12:833][400]Cmd: ACTOR DELETE
+[2021.06.10-08.25.12:833][400]LogEditorActor: Deleted Actor: PointLight
+[2021.06.10-08.25.12:840][400]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.06.10-08.25.15:522][721]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2021.06.10-08.25.17:840][987]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.25.17:840][987]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:25:17 PM)
+[2021.06.10-08.25.17:840][987]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.25.17:842][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002091s)
+[2021.06.10-08.25.17:843][987]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.25.17:843][987]LogPlayLevel: PIE: World Init took: (0.000576s)
+[2021.06.10-08.25.17:843][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.002834s)
+[2021.06.10-08.25.17:878][987]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.25.17:880][987]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.25.17
+[2021.06.10-08.25.17:881][987]LogWorld: Bringing up level for play took: 0.001646
+[2021.06.10-08.25.17:881][987]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.25.17:881][987]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.25.17:881][987]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.25.17:882][987]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.25.17:882][987]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu -0.043
+[2021.06.10-08.25.24:140][729]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Explosion)
+[2021.06.10-08.25.25:978][941]Cmd: DELETE
+[2021.06.10-08.25.25:978][941]Cmd: ACTOR DELETE
+[2021.06.10-08.25.25:978][941]LogEditorActor: Deleted Actor: Emitter
+[2021.06.10-08.25.25:985][941]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.06.10-08.25.27:233][ 89]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.25.27:233][ 89]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:25:27 PM)
+[2021.06.10-08.25.27:233][ 89]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.25.27:235][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002169s)
+[2021.06.10-08.25.27:236][ 89]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.25.27:236][ 89]LogPlayLevel: PIE: World Init took: (0.000625s)
+[2021.06.10-08.25.27:236][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.002976s)
+[2021.06.10-08.25.27:268][ 89]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.25.27:270][ 89]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.25.27
+[2021.06.10-08.25.27:270][ 89]LogWorld: Bringing up level for play took: 0.001371
+[2021.06.10-08.25.27:271][ 89]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.25.27:271][ 89]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.25.27:271][ 89]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.25.27:272][ 89]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.25.27:272][ 89]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu -0.654
+[2021.06.10-08.25.43:725][ 63]LogHttp:Warning: 00000000363FE200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.25.43:725][ 63]LogHttp:Warning: 00000000363FE200: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.06.10-08.25.43:725][ 63]LogHttp:Warning: 00000000363FE200: libcurl info message cache 9 (Closing connection 7)
+[2021.06.10-08.26.55:478][581]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:/Прочее/ьлендер/amogus red.fbx)
+[2021.06.10-08.26.55:508][581]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2021.06.10-08.26.55:508][581]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2021.06.10-08.26.55:508][581]LogFbx: ItemName: Geometry, ItemCount : 3
+[2021.06.10-08.26.55:508][581]LogFbx: ItemName: Model, ItemCount : 5
+[2021.06.10-08.26.55:508][581]LogFbx: ItemName: Material, ItemCount : 2
+[2021.06.10-08.26.55:512][581]LogFbx: Loading FBX Scene from F:/Прочее/ьлендер/amogus red.fbx
+[2021.06.10-08.26.55:526][581]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.10-08.27.35:589][581]LogFbx: Loading FBX Scene from F:/Прочее/ьлендер/amogus red.fbx
+[2021.06.10-08.27.35:603][581]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.10-08.27.35:607][581]LogFbx: SubDSurface import:  0.00 seconds
+[2021.06.10-08.27.35:608][581]FBXImport:Warning: Warning Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.06.10-08.27.43:322][494]LogHttp:Warning: 00000000363D9780: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.27.43:322][494]LogHttp:Warning: 00000000363D9780: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.06.10-08.27.43:322][494]LogHttp:Warning: 00000000363D9780: libcurl info message cache 9 (Closing connection 8)
+[2021.06.10-08.27.50:073][241]LogEngine: SubDSurface OpenSubDiv:  0.13 seconds
+[2021.06.10-08.27.50:216][241]LogStaticMesh: Building static mesh StaticMesh_0...
+[2021.06.10-08.27.52:332][241]LogStaticMesh: Built static mesh [2.12s] /Game/uuuu.uuuu:PersistentLevel.amogus_red.NewSubDSurfaceComponent.StaticMesh_0
+[2021.06.10-08.27.52:338][241]LogStaticMesh:Warning: StaticMesh_0 has degenerate tangent bases which will result in incorrect shading. Consider enabling Recompute Tangents in the mesh's Build Settings. 
+[2021.06.10-08.27.52:365][241]LogEngine: SubDSurface update:  2.42 seconds
+[2021.06.10-08.28.02:560][123]LogEngine: SubDSurface OpenSubDiv:  0.10 seconds
+[2021.06.10-08.28.02:706][123]LogStaticMesh: Building static mesh StaticMesh_1...
+[2021.06.10-08.28.04:790][123]LogStaticMesh: Built static mesh [2.08s] /Game/uuuu.uuuu:PersistentLevel.amogus_red_2.NewSubDSurfaceComponent.StaticMesh_1
+[2021.06.10-08.28.04:794][123]LogStaticMesh:Warning: StaticMesh_1 has degenerate tangent bases which will result in incorrect shading. Consider enabling Recompute Tangents in the mesh's Build Settings. 
+[2021.06.10-08.28.04:816][123]LogEngine: SubDSurface update:  2.36 seconds
+[2021.06.10-08.28.05:453][186]LogEngine: SubDSurface OpenSubDiv:  0.10 seconds
+[2021.06.10-08.28.05:583][186]LogStaticMesh: Building static mesh StaticMesh_2...
+[2021.06.10-08.28.07:612][186]LogStaticMesh: Built static mesh [2.03s] /Game/uuuu.uuuu:PersistentLevel.amogus_red_4.NewSubDSurfaceComponent.StaticMesh_2
+[2021.06.10-08.28.07:615][186]LogStaticMesh:Warning: StaticMesh_2 has degenerate tangent bases which will result in incorrect shading. Consider enabling Recompute Tangents in the mesh's Build Settings. 
+[2021.06.10-08.28.07:634][186]LogEngine: SubDSurface update:  2.28 seconds
+[2021.06.10-08.28.09:906][445]LogEngine: SubDSurface OpenSubDiv:  0.10 seconds
+[2021.06.10-08.28.10:032][445]LogStaticMesh: Building static mesh StaticMesh_3...
+[2021.06.10-08.28.12:023][445]LogStaticMesh: Built static mesh [1.99s] /Game/uuuu.uuuu:PersistentLevel.amogus_red_6.NewSubDSurfaceComponent.StaticMesh_3
+[2021.06.10-08.28.12:027][445]LogStaticMesh:Warning: StaticMesh_3 has degenerate tangent bases which will result in incorrect shading. Consider enabling Recompute Tangents in the mesh's Build Settings. 
+[2021.06.10-08.28.12:047][445]LogEngine: SubDSurface update:  2.24 seconds
+[2021.06.10-08.28.29:750][534]Cmd: SELECT NONE
+[2021.06.10-08.28.33:518][981]LogEditorActor: Deleted Actor: SubDSurfaceActor
+[2021.06.10-08.28.33:533][981]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.06.10-08.29.03:407][818]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:/Прочее/ьлендер/amogus red.fbx)
+[2021.06.10-08.29.03:420][818]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2021.06.10-08.29.03:420][818]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2021.06.10-08.29.03:420][818]LogFbx: ItemName: Geometry, ItemCount : 3
+[2021.06.10-08.29.03:420][818]LogFbx: ItemName: Model, ItemCount : 5
+[2021.06.10-08.29.03:420][818]LogFbx: ItemName: Material, ItemCount : 2
+[2021.06.10-08.29.03:424][818]LogFbx: Loading FBX Scene from F:/Прочее/ьлендер/amogus red.fbx
+[2021.06.10-08.29.03:438][818]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.10-08.29.14:936][818]LogFbx: Loading FBX Scene from F:/Прочее/ьлендер/amogus red.fbx
+[2021.06.10-08.29.14:950][818]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.10-08.29.14:954][818]LogFbx: SubDSurface import:  0.00 seconds
+[2021.06.10-08.29.14:955][818]FBXImport:Warning: Warning Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.06.10-08.29.18:086][131]LogEngine: SubDSurface OpenSubDiv:  0.10 seconds
+[2021.06.10-08.29.18:215][131]LogStaticMesh: Building static mesh StaticMesh_4...
+[2021.06.10-08.29.20:227][131]LogStaticMesh: Built static mesh [2.01s] /Game/uuuu.uuuu:PersistentLevel.amogus_red.NewSubDSurfaceComponent.StaticMesh_4
+[2021.06.10-08.29.20:230][131]LogStaticMesh:Warning: StaticMesh_4 has degenerate tangent bases which will result in incorrect shading. Consider enabling Recompute Tangents in the mesh's Build Settings. 
+[2021.06.10-08.29.20:239][131]LogEngine: SubDSurface update:  2.26 seconds
+[2021.06.10-08.29.22:792][425]LogEngine: SubDSurface OpenSubDiv:  0.09 seconds
+[2021.06.10-08.29.22:931][425]LogStaticMesh: Building static mesh StaticMesh_5...
+[2021.06.10-08.29.24:925][425]LogStaticMesh: Built static mesh [1.99s] /Game/uuuu.uuuu:PersistentLevel.amogus_red_9.NewSubDSurfaceComponent.StaticMesh_5
+[2021.06.10-08.29.24:929][425]LogStaticMesh:Warning: StaticMesh_5 has degenerate tangent bases which will result in incorrect shading. Consider enabling Recompute Tangents in the mesh's Build Settings. 
+[2021.06.10-08.29.24:946][425]LogEngine: SubDSurface update:  2.25 seconds
+[2021.06.10-08.29.40:122][413]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:/Прочее/ьлендер/amogus red.fbx)
+[2021.06.10-08.29.40:135][413]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2021.06.10-08.29.40:135][413]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2021.06.10-08.29.40:135][413]LogFbx: ItemName: Geometry, ItemCount : 3
+[2021.06.10-08.29.40:135][413]LogFbx: ItemName: Model, ItemCount : 5
+[2021.06.10-08.29.40:135][413]LogFbx: ItemName: Material, ItemCount : 2
+[2021.06.10-08.29.40:139][413]LogFbx: Loading FBX Scene from F:/Прочее/ьлендер/amogus red.fbx
+[2021.06.10-08.29.40:153][413]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.10-08.30.01:334][413]LogFbx: Loading FBX Scene from F:/Прочее/ьлендер/amogus red.fbx
+[2021.06.10-08.30.01:349][413]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.10-08.30.01:351][413]LogLinker:Warning: Can't find file '/Game/Материал_001'
+[2021.06.10-08.30.01:351][413]LogLinker:Warning: Can't find file '/Game/Материал_001'
+[2021.06.10-08.30.01:355][413]LogMaterial: Missing cached shader map for material Материал_001, compiling. 
+[2021.06.10-08.30.01:370][413]LogFbx:Warning: Triangulating static mesh Сфера
+[2021.06.10-08.30.02:201][413]LogLinker:Warning: Can't find file '/Game/Материал'
+[2021.06.10-08.30.02:201][413]LogLinker:Warning: Can't find file '/Game/Материал'
+[2021.06.10-08.30.02:207][413]LogMaterial: Missing cached shader map for material Материал, compiling. 
+[2021.06.10-08.30.02:219][413]LogFbx:Warning: Triangulating static mesh Сфера.001
+[2021.06.10-08.30.03:071][413]LogFbx:Warning: Triangulating static mesh Сфера.002
+[2021.06.10-08.30.03:897][413]LogStaticMesh: Building static mesh amogus_red...
+[2021.06.10-08.30.04:635][413]LogStaticMesh: Built static mesh [0.74s] /Game/amogus_red.amogus_red
+[2021.06.10-08.30.04:668][413]FBXImport:Warning: Warning Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.06.10-08.30.04:872][417]LogHttp:Warning: 000000001FC12F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.30.04:872][417]LogHttp:Warning: 000000001FC12F80: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.06.10-08.30.04:872][417]LogHttp:Warning: 000000001FC12F80: libcurl info message cache 9 (Closing connection 9)
+[2021.06.10-08.30.24:982][503]LogActorFactory: Actor Factory created amogus_red
+[2021.06.10-08.30.26:024][627]LogActorFactory: Actor Factory created amogus_red
+[2021.06.10-08.31.01:931][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/uuuu" FILE="C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Autosaves/Game/uuuu_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.06.10-08.31.01:966][734]LogSavePackage: Save=19.70ms
+[2021.06.10-08.31.01:966][734]LogSavePackage: Moving 'C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/uuuu_Auto13DD1136E443F7F74D8EF1199E3D475B5.tmp' to 'C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Autosaves/Game/uuuu_Auto1.umap'
+[2021.06.10-08.31.01:967][734]LogSavePackage:Display: Finished SavePackage C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Autosaves/Game/uuuu_Auto1.umap
+[2021.06.10-08.31.01:969][734]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/uuuu' took 0.047
+[2021.06.10-08.31.01:969][734]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.047
+[2021.06.10-08.31.01:989][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/amogus_red] ([1] browsable assets)...
+[2021.06.10-08.31.02:007][734]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/amogus_red.amogus_red]
+[2021.06.10-08.31.02:008][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/amogus_red]
+[2021.06.10-08.31.02:008][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/amogus_red" FILE="C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Autosaves/Game/amogus_red_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.06.10-08.31.02:023][734]LogSavePackage: Save=13.98ms
+[2021.06.10-08.31.02:023][734]LogSavePackage: Moving 'C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/amogus_red_Auto1C2B7AA934837F15A7B8680A907499622.tmp' to 'C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Autosaves/Game/amogus_red_Auto1.uasset'
+[2021.06.10-08.31.02:024][734]LogSavePackage:Display: Finished SavePackage C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Autosaves/Game/amogus_red_Auto1.uasset
+[2021.06.10-08.31.02:024][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Материал_001] ([1] browsable assets)...
+[2021.06.10-08.31.02:043][734]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Материал_001.Материал_001]
+[2021.06.10-08.31.02:043][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Материал_001]
+[2021.06.10-08.31.02:043][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Материал_001" FILE="C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Autosaves/Game/Материал_001_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.06.10-08.31.02:059][734]LogSavePackage: Save=14.04ms
+[2021.06.10-08.31.02:059][734]LogSavePackage: Moving 'C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Материал_001_Auto1FCD494B344B3BF534112BAAE5286E3EE.tmp' to 'C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Autosaves/Game/Материал_001_Auto1.uasset'
+[2021.06.10-08.31.02:060][734]LogSavePackage:Display: Finished SavePackage C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Autosaves/Game/Материал_001_Auto1.uasset
+[2021.06.10-08.31.02:060][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Материал] ([1] browsable assets)...
+[2021.06.10-08.31.02:078][734]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Материал.Материал]
+[2021.06.10-08.31.02:078][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Материал]
+[2021.06.10-08.31.02:078][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Материал" FILE="C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Autosaves/Game/Материал_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.06.10-08.31.02:092][734]LogSavePackage: Save=12.08ms
+[2021.06.10-08.31.02:092][734]LogSavePackage: Moving 'C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Материал_Auto132E4B8E84020DAE7B40D9B88B6F3FA7B.tmp' to 'C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Autosaves/Game/Материал_Auto1.uasset'
+[2021.06.10-08.31.02:092][734]LogSavePackage:Display: Finished SavePackage C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Autosaves/Game/Материал_Auto1.uasset
+[2021.06.10-08.31.02:093][734]LogFileHelpers: Auto-saving content packages took 0.104
+[2021.06.10-08.31.09:145][443]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 112 classes and 0 folders.
+[2021.06.10-08.31.17:291][997]LogRenderer: Reallocating scene render targets to support 1244x900 (Frame:86614).
+[2021.06.10-08.32.06:819][282]LogHttp:Warning: 00000000469B7B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.32.06:819][282]LogHttp:Warning: 00000000469B7B80: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.06.10-08.32.06:819][282]LogHttp:Warning: 00000000469B7B80: libcurl info message cache 9 (Closing connection 10)
+[2021.06.10-08.32.53:339][232]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2021.06.10-08.33.25:263][929]LogHttp:Warning: 00000000469B5300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.33.25:263][929]LogHttp:Warning: 00000000469B5300: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.06.10-08.33.25:263][929]LogHttp:Warning: 00000000469B5300: libcurl info message cache 9 (Closing connection 11)
+[2021.06.10-08.33.40:257][186]BlueprintLog: New page: Compile фь
+[2021.06.10-08.33.53:310][848]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'ук' or package '/Engine/Transient'.
+[2021.06.10-08.33.53:310][848]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'ук' or package '/Engine/Transient'.
+[2021.06.10-08.34.01:918][589]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.10-08.34.09:027][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.10-08.34.22:135][876]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:/Прочее/ьлендер/amogus red.fbx)
+[2021.06.10-08.34.22:149][876]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2021.06.10-08.34.22:149][876]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2021.06.10-08.34.22:149][876]LogFbx: ItemName: Geometry, ItemCount : 3
+[2021.06.10-08.34.22:149][876]LogFbx: ItemName: Model, ItemCount : 5
+[2021.06.10-08.34.22:149][876]LogFbx: ItemName: Material, ItemCount : 2
+[2021.06.10-08.34.22:153][876]LogFbx: Loading FBX Scene from F:/Прочее/ьлендер/amogus red.fbx
+[2021.06.10-08.34.22:167][876]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.10-08.34.34:127][876]LogFbx: Loading FBX Scene from F:/Прочее/ьлендер/amogus red.fbx
+[2021.06.10-08.34.34:144][876]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.10-08.34.34:146][876]LogFbx:Warning: Triangulating static mesh Сфера
+[2021.06.10-08.34.34:895][876]LogFbx:Warning: Triangulating static mesh Сфера.001
+[2021.06.10-08.34.35:641][876]LogFbx:Warning: Triangulating static mesh Сфера.002
+[2021.06.10-08.34.36:411][876]LogStaticMesh: Building static mesh amogus_red...
+[2021.06.10-08.34.37:134][876]LogStaticMesh: Built static mesh [0.72s] /Game/amogus_red.amogus_red
+[2021.06.10-08.34.37:144][876]FBXImport:Warning: Warning Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.06.10-08.34.40:320][241]LogHttp:Warning: 0000000054B4AE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.34.40:320][241]LogHttp:Warning: 0000000054B4AE00: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.06.10-08.34.40:320][241]LogHttp:Warning: 0000000054B4AE00: libcurl info message cache 9 (Closing connection 12)
+[2021.06.10-08.35.20:829][971]BlueprintLog: New page: Compile фь
+[2021.06.10-08.35.29:457][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.10-08.35.29:979][894]LogEditorViewport: Clicking on Actor (LMB): фь_C (фь)
+[2021.06.10-08.35.47:879][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.35.47:879][738]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:35:47 PM)
+[2021.06.10-08.35.47:879][738]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.35.47:881][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001939s)
+[2021.06.10-08.35.47:882][738]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.35.47:882][738]LogPlayLevel: PIE: World Init took: (0.000640s)
+[2021.06.10-08.35.47:882][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.002776s)
+[2021.06.10-08.35.47:921][738]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.35.47:923][738]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.35.47
+[2021.06.10-08.35.47:923][738]LogWorld: Bringing up level for play took: 0.001467
+[2021.06.10-08.35.47:924][738]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.35.47:924][738]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.35.47:924][738]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.35.47:924][738]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.35.47:925][738]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu -0.038
+[2021.06.10-08.36.20:914][775]LogHttp:Warning: 000000003A9BE800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.36.20:914][775]LogHttp:Warning: 000000003A9BE800: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.06.10-08.36.20:914][775]LogHttp:Warning: 000000003A9BE800: libcurl info message cache 9 (Closing connection 13)
+[2021.06.10-08.36.24:002][140]LogEditorViewport: Clicking on Actor (LMB): фь_C (фь)
+[2021.06.10-08.36.46:474][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.36.46:474][798]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:36:46 PM)
+[2021.06.10-08.36.46:474][798]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.36.46:476][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001983s)
+[2021.06.10-08.36.46:477][798]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.36.46:477][798]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2021.06.10-08.36.46:477][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.002857s)
+[2021.06.10-08.36.46:517][798]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.36.46:519][798]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.36.46
+[2021.06.10-08.36.46:519][798]LogWorld: Bringing up level for play took: 0.001455
+[2021.06.10-08.36.46:520][798]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.36.46:520][798]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.36.46:520][798]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.36.46:521][798]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.36.46:521][798]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu 0.554
+[2021.06.10-08.36.53:979][681]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.10-08.36.54:306][716]LogEditorViewport: Clicking on Actor (LMB): фь_C (фь)
+[2021.06.10-08.37.04:277][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.37.04:277][900]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:37:04 PM)
+[2021.06.10-08.37.04:277][900]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.37.04:279][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002124s)
+[2021.06.10-08.37.04:279][900]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.37.04:279][900]LogPlayLevel: PIE: World Init took: (0.000569s)
+[2021.06.10-08.37.04:280][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.002876s)
+[2021.06.10-08.37.04:319][900]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.37.04:321][900]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.37.04
+[2021.06.10-08.37.04:322][900]LogWorld: Bringing up level for play took: 0.001447
+[2021.06.10-08.37.04:322][900]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.37.04:322][900]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.37.04:322][900]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.37.04:323][900]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.37.04:323][900]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu 0.355
+[2021.06.10-08.37.46:518][963]LogHttp:Warning: 000000004FAD2380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.37.46:518][963]LogHttp:Warning: 000000004FAD2380: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.06.10-08.37.46:518][963]LogHttp:Warning: 000000004FAD2380: libcurl info message cache 9 (Closing connection 14)
+[2021.06.10-08.38.50:378][962]BlueprintLog: New page: Compile фь
+[2021.06.10-08.38.54:061][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.38.54:061][331]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:38:54 PM)
+[2021.06.10-08.38.54:061][331]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.38.54:064][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002031s)
+[2021.06.10-08.38.54:064][331]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.38.54:064][331]LogPlayLevel: PIE: World Init took: (0.000589s)
+[2021.06.10-08.38.54:064][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.002803s)
+[2021.06.10-08.38.54:100][331]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.38.54:102][331]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.38.54
+[2021.06.10-08.38.54:102][331]LogWorld: Bringing up level for play took: 0.001436
+[2021.06.10-08.38.54:103][331]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.38.54:103][331]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.38.54:103][331]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.38.54:104][331]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.38.54:104][331]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu 0.13
+[2021.06.10-08.39.11:168][366]LogEditorViewport: Clicking on Actor (LMB): фь_C (фь)
+[2021.06.10-08.39.43:160][288]BlueprintLog: New page: Compile фь
+[2021.06.10-08.39.44:920][432]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.39.44:920][432]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:39:44 PM)
+[2021.06.10-08.39.44:920][432]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.39.44:923][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002196s)
+[2021.06.10-08.39.44:923][432]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.39.44:923][432]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2021.06.10-08.39.44:923][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.003013s)
+[2021.06.10-08.39.44:965][432]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.39.44:968][432]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.39.44
+[2021.06.10-08.39.44:968][432]LogWorld: Bringing up level for play took: 0.001573
+[2021.06.10-08.39.44:968][432]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.39.44:968][432]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.39.44:968][432]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.39.44:969][432]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.39.44:969][432]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu 0.992
+[2021.06.10-08.39.50:434][ 83]LogHttp:Warning: 000000003CFD8700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.39.50:434][ 83]LogHttp:Warning: 000000003CFD8700: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.06.10-08.39.50:434][ 83]LogHttp:Warning: 000000003CFD8700: libcurl info message cache 9 (Closing connection 15)
+[2021.06.10-08.40.18:671][426]LogEditorTransaction: Undo Replace component used material
+[2021.06.10-08.40.24:175][966]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.10-08.40.24:175][966]LogPlayLevel: [PlayLevel] Compiling фь before play...
+[2021.06.10-08.40.24:401][966]LogPlayLevel: PlayLevel: Blueprint regeneration took 226 ms (1 blueprints)
+[2021.06.10-08.40.24:401][966]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:40:24 PM)
+[2021.06.10-08.40.24:401][966]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.40.24:403][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001687s)
+[2021.06.10-08.40.24:403][966]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.40.24:404][966]LogPlayLevel: PIE: World Init took: (0.000564s)
+[2021.06.10-08.40.24:404][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.002429s)
+[2021.06.10-08.40.24:446][966]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.40.24:449][966]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.40.24
+[2021.06.10-08.40.24:449][966]LogWorld: Bringing up level for play took: 0.001482
+[2021.06.10-08.40.24:449][966]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.40.24:449][966]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.40.24:449][966]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.40.24:450][966]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.40.24:450][966]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu 0.471
+[2021.06.10-08.40.38:578][415]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.10-08.40.58:690][334]BlueprintLog: New page: Compile фь
+[2021.06.10-08.41.00:301][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.41.00:301][476]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:41:00 PM)
+[2021.06.10-08.41.00:301][476]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.41.00:303][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001844s)
+[2021.06.10-08.41.00:303][476]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.41.00:303][476]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2021.06.10-08.41.00:304][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.002616s)
+[2021.06.10-08.41.00:345][476]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.41.00:347][476]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.41.00
+[2021.06.10-08.41.00:348][476]LogWorld: Bringing up level for play took: 0.001880
+[2021.06.10-08.41.00:348][476]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.41.00:348][476]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.41.00:348][476]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.41.00:349][476]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.41.00:349][476]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu 0.368
+[2021.06.10-08.41.24:231][819]LogHttp:Warning: 00000000469B4280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.41.24:231][819]LogHttp:Warning: 00000000469B4280: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.06.10-08.41.24:231][819]LogHttp:Warning: 00000000469B4280: libcurl info message cache 9 (Closing connection 16)
+[2021.06.10-08.41.25:424][932]PIE:Warning: Warning Invalid Simulate Options: Body (фь_254.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.25:424][932]PIE:Warning: Warning Invalid Simulate Options: Body (фь_254.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.25:425][932]PIE:Warning: Warning Invalid Simulate Options: Body (фь_254.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.25:425][932]PIE:Warning: Warning Invalid Simulate Options: Body (фь_254.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.25:426][932]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.25:426][932]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.25:426][932]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.25:426][932]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.25:427][932]PIE:Warning: Warning Invalid Simulate Options: Body (фь_254.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.25:427][932]PIE:Warning: Warning Invalid Simulate Options: Body (фь_254.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.25:427][932]PIE:Warning: Warning Invalid Simulate Options: Body (фь_254.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.25:427][932]PIE:Warning: Warning Invalid Simulate Options: Body (фь_254.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.25:427][932]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.25:427][932]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.25:428][932]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.25:428][932]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.25:437][932]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.25:437][932]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.25:437][932]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.25:437][932]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.35:985][946]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.10-08.41.35:985][946]LogPlayLevel: [PlayLevel] Compiling фь before play...
+[2021.06.10-08.41.35:988][946]PIE:Warning: Warning Invalid Simulate Options: Body (фь_254.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.35:988][946]PIE:Warning: Warning Invalid Simulate Options: Body (фь_254.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.35:989][946]PIE:Warning: Warning Invalid Simulate Options: Body (фь_254.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.35:989][946]PIE:Warning: Warning Invalid Simulate Options: Body (фь_254.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.35:993][946]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.35:993][946]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.35:994][946]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.35:994][946]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.36:046][946]PIE:Warning: Warning Invalid Simulate Options: Body (фь_254.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.36:046][946]PIE:Warning: Warning Invalid Simulate Options: Body (фь_254.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.36:046][946]PIE:Warning: Warning Invalid Simulate Options: Body (фь_254.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.36:046][946]PIE:Warning: Warning Invalid Simulate Options: Body (фь_254.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.36:046][946]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.36:046][946]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.36:046][946]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.36:047][946]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.36:061][946]LogPlayLevel: PlayLevel: Blueprint regeneration took 75 ms (1 blueprints)
+[2021.06.10-08.41.36:061][946]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:41:36 PM)
+[2021.06.10-08.41.36:061][946]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.41.36:062][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001549s)
+[2021.06.10-08.41.36:063][946]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.41.36:063][946]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2021.06.10-08.41.36:063][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.002388s)
+[2021.06.10-08.41.36:109][946]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.41.36:111][946]PIE:Warning: Warning Invalid Simulate Options: Body (фь_254.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.36:111][946]PIE:Warning: Warning Invalid Simulate Options: Body (фь_254.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.36:111][946]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.41.36
+[2021.06.10-08.41.36:111][946]LogWorld: Bringing up level for play took: 0.001437
+[2021.06.10-08.41.36:112][946]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.41.36:112][946]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.41.36:112][946]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.41.36:112][946]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.41.36:112][946]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu 0.129
+[2021.06.10-08.41.36:137][946]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.36:137][946]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.36:137][946]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.36:137][946]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.37:454][ 90]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.37:454][ 90]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.37:454][ 90]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.37:454][ 90]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.43:310][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.41.43:310][652]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:41:43 PM)
+[2021.06.10-08.41.43:310][652]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.41.43:312][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002099s)
+[2021.06.10-08.41.43:313][652]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.41.43:313][652]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2021.06.10-08.41.43:313][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.002852s)
+[2021.06.10-08.41.43:352][652]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.41.43:354][652]PIE:Warning: Warning Invalid Simulate Options: Body (фь_254.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.43:354][652]PIE:Warning: Warning Invalid Simulate Options: Body (фь_254.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.43:355][652]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.41.43
+[2021.06.10-08.41.43:355][652]LogWorld: Bringing up level for play took: 0.001785
+[2021.06.10-08.41.43:355][652]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.41.43:355][652]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.41.43:355][652]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.41.43:356][652]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.41.43:356][652]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu -0.628
+[2021.06.10-08.41.49:401][300]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.49:401][300]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.49:401][300]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.41.49:401][300]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.42.03:468][613]BlueprintLog: New page: Compile фь
+[2021.06.10-08.42.04:735][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.42.04:736][721]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:42:04 PM)
+[2021.06.10-08.42.04:736][721]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.42.04:738][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001873s)
+[2021.06.10-08.42.04:738][721]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.42.04:738][721]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2021.06.10-08.42.04:738][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.002639s)
+[2021.06.10-08.42.04:778][721]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.42.04:780][721]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.42.04
+[2021.06.10-08.42.04:780][721]LogWorld: Bringing up level for play took: 0.001580
+[2021.06.10-08.42.04:781][721]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.42.04:781][721]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.42.04:781][721]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.42.04:782][721]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.42.04:782][721]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu 0.796
+[2021.06.10-08.42.26:081][990]LogPhysics:Warning: Initialising Body : Scale3D is (nearly) zero: Component: door_386.Cube Cube 
+[2021.06.10-08.42.26:423][ 31]LogPhysics:Warning: Initialising Body : Scale3D is (nearly) zero: Component: door_386.Cube Cube 
+[2021.06.10-08.42.28:787][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.42.28:787][310]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:42:28 PM)
+[2021.06.10-08.42.28:787][310]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.42.28:789][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001985s)
+[2021.06.10-08.42.28:789][310]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.42.28:790][310]LogPlayLevel: PIE: World Init took: (0.000573s)
+[2021.06.10-08.42.28:790][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.002749s)
+[2021.06.10-08.42.28:832][310]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.42.28:834][310]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.42.28
+[2021.06.10-08.42.28:834][310]LogWorld: Bringing up level for play took: 0.001481
+[2021.06.10-08.42.28:835][310]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.42.28:835][310]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.42.28:835][310]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.42.28:836][310]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.42.28:836][310]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu 0.849
+[2021.06.10-08.42.36:040][148]LogHttp:Warning: 0000000048DBB580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.42.36:040][148]LogHttp:Warning: 0000000048DBB580: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.06.10-08.42.36:040][148]LogHttp:Warning: 0000000048DBB580: libcurl info message cache 9 (Closing connection 17)
+[2021.06.10-08.42.58:990][ 82]BlueprintLog: New page: Compile door
+[2021.06.10-08.43.00:774][220]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.10-08.43.04:722][684]Cmd: DELETE
+[2021.06.10-08.43.04:722][684]Cmd: ACTOR DELETE
+[2021.06.10-08.43.04:722][684]LogEditorActor: Deleted Actor: door_C
+[2021.06.10-08.43.04:733][684]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.06.10-08.43.06:198][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.43.06:198][858]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:43:06 PM)
+[2021.06.10-08.43.06:198][858]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.43.06:201][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002234s)
+[2021.06.10-08.43.06:201][858]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.43.06:201][858]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2021.06.10-08.43.06:201][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.003107s)
+[2021.06.10-08.43.06:237][858]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.43.06:239][858]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.43.06
+[2021.06.10-08.43.06:239][858]LogWorld: Bringing up level for play took: 0.001357
+[2021.06.10-08.43.06:240][858]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.43.06:240][858]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.43.06:240][858]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.43.06:240][858]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.43.06:240][858]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu 0.251
+[2021.06.10-08.43.20:608][229]LogEditorViewport: Clicking on Actor (LMB): фь_C (фь)
+[2021.06.10-08.43.22:065][400]Cmd: DELETE
+[2021.06.10-08.43.22:065][400]Cmd: ACTOR DELETE
+[2021.06.10-08.43.22:065][400]LogEditorActor: Deleted Actor: фь_C
+[2021.06.10-08.43.22:076][400]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.06.10-08.43.22:910][500]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2021.06.10-08.43.24:225][654]LogPhysics:Warning: Initialising Body : Scale3D is (nearly) zero: Component: door_322.re amogus_red 
+[2021.06.10-08.43.25:125][762]LogPhysics:Warning: Initialising Body : Scale3D is (nearly) zero: Component: door_322.re amogus_red 
+[2021.06.10-08.43.27:562][ 52]Cmd: TRANSACTION UNDO
+[2021.06.10-08.43.27:562][ 52]LogEditorTransaction: Undo Scale Actors
+[2021.06.10-08.43.27:953][ 87]Cmd: TRANSACTION UNDO
+[2021.06.10-08.43.27:953][ 87]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.10-08.43.31:006][406]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2021.06.10-08.43.32:086][532]Cmd: DELETE
+[2021.06.10-08.43.32:086][532]Cmd: ACTOR DELETE
+[2021.06.10-08.43.32:086][532]LogEditorActor: Deleted Actor: door_C
+[2021.06.10-08.43.32:097][532]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.06.10-08.43.59:047][246]LogHttp:Warning: 000000004B8ABA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.43.59:047][246]LogHttp:Warning: 000000004B8ABA00: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.06.10-08.43.59:047][246]LogHttp:Warning: 000000004B8ABA00: libcurl info message cache 9 (Closing connection 18)
+[2021.06.10-08.44.01:154][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/uuuu" FILE="C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Autosaves/Game/uuuu_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.06.10-08.44.01:182][368]LogSavePackage: Save=19.55ms
+[2021.06.10-08.44.01:182][368]LogSavePackage: Moving 'C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/uuuu_Auto221AC1F42408093D5F8B9FC958EB859F7.tmp' to 'C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Autosaves/Game/uuuu_Auto2.umap'
+[2021.06.10-08.44.01:183][368]LogSavePackage:Display: Finished SavePackage C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Autosaves/Game/uuuu_Auto2.umap
+[2021.06.10-08.44.01:185][368]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/uuuu' took 0.041
+[2021.06.10-08.44.01:185][368]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.041
+[2021.06.10-08.44.01:186][368]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/door] ([1] browsable assets)...
+[2021.06.10-08.44.01:198][368]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/door.door]
+[2021.06.10-08.44.01:198][368]OBJ SavePackage: Finished generating thumbnails for package [/Game/door]
+[2021.06.10-08.44.01:198][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/door" FILE="C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Autosaves/Game/door_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.06.10-08.44.01:226][368]LogSavePackage: Save=20.37ms
+[2021.06.10-08.44.01:226][368]LogSavePackage: Moving 'C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/door_Auto285E26E2243D2AB06AC59258A0B66B96E.tmp' to 'C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Autosaves/Game/door_Auto2.uasset'
+[2021.06.10-08.44.01:227][368]LogSavePackage:Display: Finished SavePackage C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Autosaves/Game/door_Auto2.uasset
+[2021.06.10-08.44.01:227][368]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/amogus_red] ([1] browsable assets)...
+[2021.06.10-08.44.01:240][368]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/amogus_red.amogus_red]
+[2021.06.10-08.44.01:240][368]OBJ SavePackage: Finished generating thumbnails for package [/Game/amogus_red]
+[2021.06.10-08.44.01:240][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/amogus_red" FILE="C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Autosaves/Game/amogus_red_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.06.10-08.44.01:254][368]LogSavePackage: Save=12.92ms
+[2021.06.10-08.44.01:254][368]LogSavePackage: Moving 'C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/amogus_red_Auto27E66E1B5487E52794586D4AB51FEEB37.tmp' to 'C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Autosaves/Game/amogus_red_Auto2.uasset'
+[2021.06.10-08.44.01:255][368]LogSavePackage:Display: Finished SavePackage C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Autosaves/Game/amogus_red_Auto2.uasset
+[2021.06.10-08.44.01:255][368]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/фь] ([1] browsable assets)...
+[2021.06.10-08.44.01:267][368]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/фь.фь]
+[2021.06.10-08.44.01:267][368]OBJ SavePackage: Finished generating thumbnails for package [/Game/фь]
+[2021.06.10-08.44.01:267][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/фь" FILE="C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Autosaves/Game/фь_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.06.10-08.44.01:285][368]LogSavePackage: Save=16.61ms
+[2021.06.10-08.44.01:286][368]LogSavePackage: Moving 'C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/фь_Auto2800A967B4C8BED8E9FD6D7BCB80E1792.tmp' to 'C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Autosaves/Game/фь_Auto2.uasset'
+[2021.06.10-08.44.01:286][368]LogSavePackage:Display: Finished SavePackage C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Autosaves/Game/фь_Auto2.uasset
+[2021.06.10-08.44.01:286][368]LogFileHelpers: Auto-saving content packages took 0.101
+[2021.06.10-08.44.14:569][250]LogActorFactory: Actor Factory created amogus_red
+[2021.06.10-08.44.15:473][357]LogActorFactory: Actor Factory created amogus_red
+[2021.06.10-08.44.17:272][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.44.17:272][567]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:44:17 PM)
+[2021.06.10-08.44.17:272][567]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.44.17:274][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002140s)
+[2021.06.10-08.44.17:275][567]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.44.17:275][567]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2021.06.10-08.44.17:275][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.002885s)
+[2021.06.10-08.44.17:310][567]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.44.17:313][567]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.44.17
+[2021.06.10-08.44.17:313][567]LogWorld: Bringing up level for play took: 0.001876
+[2021.06.10-08.44.17:314][567]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.44.17:314][567]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.44.17:314][567]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.44.17:315][567]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.44.17:315][567]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu -0.679
+[2021.06.10-08.44.29:149][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (amogus_red2)
+[2021.06.10-08.44.39:713][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.44.39:714][161]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:44:39 PM)
+[2021.06.10-08.44.39:714][161]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.44.39:716][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002223s)
+[2021.06.10-08.44.39:716][161]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.44.39:717][161]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2021.06.10-08.44.39:717][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.003008s)
+[2021.06.10-08.44.39:756][161]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.44.39:758][161]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.44.39
+[2021.06.10-08.44.39:758][161]LogWorld: Bringing up level for play took: 0.001548
+[2021.06.10-08.44.39:759][161]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.44.39:759][161]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.44.39:759][161]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.44.39:759][161]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.44.39:760][161]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu -0.235
+[2021.06.10-08.44.51:360][538]LogEditorViewport: Clicking on Actor (LMB): button_C (button)
+[2021.06.10-08.44.59:644][493]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.10-08.45.04:666][ 80]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (amogus_red2)
+[2021.06.10-08.45.11:422][623]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.11:422][623]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.10-08.45.11:719][648]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.11:719][648]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.10-08.45.12:815][765]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.12:815][765]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.10-08.45.13:024][787]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.13:024][787]LogEditorTransaction: Undo Move Actors
+[2021.06.10-08.45.13:254][813]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.13:254][813]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.10-08.45.13:466][837]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.13:466][837]LogEditorTransaction: Undo Create Actors
+[2021.06.10-08.45.13:651][856]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.13:651][856]LogEditorTransaction: Undo Create Actors
+[2021.06.10-08.45.13:885][884]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.13:885][884]LogEditorTransaction: Undo Delete Actors
+[2021.06.10-08.45.14:203][916]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.14:203][916]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.10-08.45.14:435][943]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.14:435][943]LogEditorTransaction: Undo Delete Actors
+[2021.06.10-08.45.14:661][967]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.14:661][967]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.10-08.45.14:884][991]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.14:884][991]LogEditorTransaction: Undo Create Actors
+[2021.06.10-08.45.15:135][ 20]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.15:135][ 20]LogEditorTransaction: Undo Delete Actors
+[2021.06.10-08.45.15:335][ 41]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.15:335][ 41]LogEditorTransaction: Undo Modify Component(s)
+[2021.06.10-08.45.15:568][ 64]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.15:568][ 64]LogEditorTransaction: Undo Modify Component(s)
+[2021.06.10-08.45.15:797][ 90]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.15:797][ 90]LogEditorTransaction: Undo Add Component
+[2021.06.10-08.45.16:064][120]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.16:064][120]LogEditorTransaction: Undo Remove Components
+[2021.06.10-08.45.16:267][142]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.16:267][142]LogEditorTransaction: Undo Scale Actors
+[2021.06.10-08.45.17:328][268]LogHttp:Warning: 0000000049058B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.45.17:328][268]LogHttp:Warning: 0000000049058B80: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.06.10-08.45.17:328][268]LogHttp:Warning: 0000000049058B80: libcurl info message cache 9 (Closing connection 19)
+[2021.06.10-08.45.17:772][321]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.17:773][321]LogEditorTransaction: Undo Create Actors
+[2021.06.10-08.45.18:414][395]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.18:414][395]LogEditorTransaction: Undo Edit Mobility
+[2021.06.10-08.45.18:954][455]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.18:954][455]LogEditorTransaction: Undo Edit Simulate Physics
+[2021.06.10-08.45.18:955][455]PIE:Warning: Warning Invalid Simulate Options: Body (фь_254.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.45.18:955][455]PIE:Warning: Warning Invalid Simulate Options: Body (фь_254.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.45.18:955][455]PIE:Warning: Warning Invalid Simulate Options: Body (фь_254.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.45.18:955][455]PIE:Warning: Warning Invalid Simulate Options: Body (фь_254.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.45.18:955][455]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.45.18:955][455]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.45.18:956][455]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.45.18:956][455]PIE:Warning: Warning Invalid Simulate Options: Body (фь_C_19.col) is set to simulate physics but Collision Enabled is incompatible
+[2021.06.10-08.45.19:384][502]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.19:384][502]LogEditorTransaction: Undo Edit Simulate Physics
+[2021.06.10-08.45.19:938][567]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.19:938][567]LogEditorTransaction: Undo Edit Can Character Step Up On
+[2021.06.10-08.45.20:684][650]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.20:684][650]LogEditorTransaction: Undo Edit Can Character Step Up On
+[2021.06.10-08.45.21:356][730]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.21:357][730]LogEditorTransaction: Undo Edit Dynamic Obstacle
+[2021.06.10-08.45.21:731][773]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.21:731][773]LogEditorTransaction: Undo Edit Dynamic Obstacle
+[2021.06.10-08.45.22:095][816]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.22:095][816]LogEditorTransaction: Undo Remove Components
+[2021.06.10-08.45.22:388][849]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.22:388][849]LogEditorTransaction: Undo Edit Mobility
+[2021.06.10-08.45.22:936][913]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.22:937][913]LogEditorTransaction: Undo Edit Mobility
+[2021.06.10-08.45.23:457][974]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.23:457][974]LogEditorTransaction: Undo Remove Components
+[2021.06.10-08.45.23:883][ 23]Cmd: TRANSACTION UNDO
+[2021.06.10-08.45.23:883][ 23]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.10-08.45.25:281][144]LogActorFactory: Actor Factory created amogus_red
+[2021.06.10-08.45.25:494][168]LogActorFactory: Actor Factory created amogus_red
+[2021.06.10-08.45.25:585][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (amogus_red2)
+[2021.06.10-08.45.27:836][438]Cmd: DELETE
+[2021.06.10-08.45.27:836][438]Cmd: ACTOR DELETE
+[2021.06.10-08.45.27:836][438]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.10-08.45.27:850][438]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.06.10-08.45.40:505][451]BlueprintLog: New page: Compile door
+[2021.06.10-08.45.43:547][742]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.10-08.45.43:547][742]LogPlayLevel: [PlayLevel] Compiling фь before play...
+[2021.06.10-08.45.43:767][742]LogPlayLevel: PlayLevel: Blueprint regeneration took 219 ms (1 blueprints)
+[2021.06.10-08.45.43:767][742]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:45:43 PM)
+[2021.06.10-08.45.43:767][742]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.45.43:769][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001864s)
+[2021.06.10-08.45.43:769][742]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.45.43:769][742]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2021.06.10-08.45.43:770][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.002729s)
+[2021.06.10-08.45.43:809][742]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.45.43:811][742]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.45.43
+[2021.06.10-08.45.43:812][742]LogWorld: Bringing up level for play took: 0.001478
+[2021.06.10-08.45.43:812][742]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.45.43:812][742]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.45.43:812][742]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.45.43:813][742]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.45.43:813][742]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu -0.186
+[2021.06.10-08.45.50:394][518]LogEditorViewport: Clicking on Actor (LMB): фь_C (фь)
+[2021.06.10-08.45.51:987][706]Cmd: DELETE
+[2021.06.10-08.45.51:987][706]Cmd: ACTOR DELETE
+[2021.06.10-08.45.51:987][706]LogEditorActor: Deleted Actor: фь_C
+[2021.06.10-08.45.51:998][706]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.06.10-08.46.08:186][513]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.46.08:186][513]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:46:08 PM)
+[2021.06.10-08.46.08:186][513]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.46.08:188][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002072s)
+[2021.06.10-08.46.08:188][513]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.46.08:189][513]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2021.06.10-08.46.08:189][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.002834s)
+[2021.06.10-08.46.08:230][513]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.46.08:232][513]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.46.08
+[2021.06.10-08.46.08:233][513]LogWorld: Bringing up level for play took: 0.001660
+[2021.06.10-08.46.08:233][513]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.46.08:233][513]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.46.08:233][513]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.46.08:234][513]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.46.08:234][513]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu 0.234
+[2021.06.10-08.46.28:209][901]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2021.06.10-08.46.40:573][  7]LogHttp:Warning: 000000004AABDC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.46.40:573][  7]LogHttp:Warning: 000000004AABDC00: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.06.10-08.46.40:573][  7]LogHttp:Warning: 000000004AABDC00: libcurl info message cache 9 (Closing connection 20)
+[2021.06.10-08.47.10:834][967]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2021.06.10-08.47.17:711][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.47.17:712][787]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:47:17 PM)
+[2021.06.10-08.47.17:712][787]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.47.17:714][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002568s)
+[2021.06.10-08.47.17:715][787]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.47.17:715][787]LogPlayLevel: PIE: World Init took: (0.000614s)
+[2021.06.10-08.47.17:715][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.003368s)
+[2021.06.10-08.47.17:756][787]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.47.17:758][787]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.47.17
+[2021.06.10-08.47.17:758][787]LogWorld: Bringing up level for play took: 0.001524
+[2021.06.10-08.47.17:759][787]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.47.17:759][787]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.47.17:759][787]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.47.17:759][787]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.47.17:759][787]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu -0.245
+[2021.06.10-08.47.32:406][495]LogEditorViewport: Clicking on Actor (LMB): button_C (button)
+[2021.06.10-08.47.33:346][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.10-08.47.34:026][680]LogEditorViewport: Clicking on Actor (LMB): button_C (button)
+[2021.06.10-08.47.40:238][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.10-08.47.40:405][430]Cmd: SELECT NONE
+[2021.06.10-08.47.41:885][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.47.41:885][605]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:47:41 PM)
+[2021.06.10-08.47.41:885][605]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.47.41:887][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002242s)
+[2021.06.10-08.47.41:888][605]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.47.41:888][605]LogPlayLevel: PIE: World Init took: (0.000555s)
+[2021.06.10-08.47.41:888][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.002974s)
+[2021.06.10-08.47.41:929][605]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.47.41:931][605]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.47.41
+[2021.06.10-08.47.41:932][605]LogWorld: Bringing up level for play took: 0.001760
+[2021.06.10-08.47.41:932][605]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.47.41:932][605]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.47.41:932][605]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.47.41:933][605]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.47.41:933][605]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu -0.073
+[2021.06.10-08.48.18:057][886]LogHttp:Warning: 000000002951AF80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.48.18:057][886]LogHttp:Warning: 000000002951AF80: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.06.10-08.48.18:057][886]LogHttp:Warning: 000000002951AF80: libcurl info message cache 9 (Closing connection 21)
+[2021.06.10-08.48.46:595][ 83]BlueprintLog: New page: Compile door
+[2021.06.10-08.48.49:050][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.48.49:050][356]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:48:49 PM)
+[2021.06.10-08.48.49:050][356]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.48.49:053][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002531s)
+[2021.06.10-08.48.49:053][356]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.48.49:053][356]LogPlayLevel: PIE: World Init took: (0.000568s)
+[2021.06.10-08.48.49:053][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.003288s)
+[2021.06.10-08.48.49:096][356]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.48.49:098][356]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.48.49
+[2021.06.10-08.48.49:099][356]LogWorld: Bringing up level for play took: 0.001745
+[2021.06.10-08.48.49:099][356]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.48.49:099][356]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.48.49:099][356]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.48.49:100][356]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.48.49:100][356]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu -0.91
+[2021.06.10-08.49.02:698][980]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2021.06.10-08.49.45:563][237]BlueprintLog: New page: Compile door
+[2021.06.10-08.49.46:666][345]LogHttp:Warning: 000000004A9F6080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.49.46:666][345]LogHttp:Warning: 000000004A9F6080: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.06.10-08.49.46:666][345]LogHttp:Warning: 000000004A9F6080: libcurl info message cache 9 (Closing connection 22)
+[2021.06.10-08.49.48:067][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.49.48:067][505]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:49:48 PM)
+[2021.06.10-08.49.48:067][505]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.49.48:069][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002526s)
+[2021.06.10-08.49.48:070][505]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.49.48:070][505]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2021.06.10-08.49.48:070][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.003350s)
+[2021.06.10-08.49.48:109][505]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.49.48:111][505]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.49.48
+[2021.06.10-08.49.48:112][505]LogWorld: Bringing up level for play took: 0.001565
+[2021.06.10-08.49.48:112][505]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.49.48:112][505]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.49.48:112][505]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.49.48:113][505]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.49.48:113][505]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu 0.099
+[2021.06.10-08.49.58:858][655]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2021.06.10-08.50.10:882][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.10-08.50.10:882][ 77]PIE: New page: PIE session: uuuu (Jun 10, 2021, 2:50:10 PM)
+[2021.06.10-08.50.10:883][ 77]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_uuuu
+[2021.06.10-08.50.10:885][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002414s)
+[2021.06.10-08.50.10:885][ 77]LogAIModule: Creating AISystem for world uuuu
+[2021.06.10-08.50.10:886][ 77]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2021.06.10-08.50.10:886][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/uuuu.uuuu to /Game/UEDPIE_0_uuuu.uuuu (0.003230s)
+[2021.06.10-08.50.10:927][ 77]LogWorld: Game class is 'fff_C'
+[2021.06.10-08.50.10:930][ 77]LogWorld: Bringing World /Game/UEDPIE_0_uuuu.uuuu up for play (max tick rate 0) at 2021.06.10-11.50.10
+[2021.06.10-08.50.10:930][ 77]LogWorld: Bringing up level for play took: 0.001760
+[2021.06.10-08.50.10:930][ 77]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.50.10:930][ 77]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.10-08.50.10:930][ 77]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.50.10:931][ 77]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.10-08.50.10:931][ 77]PIE: Info Play in editor start time for /Game/UEDPIE_0_uuuu 0.916
+[2021.06.10-08.50.17:766][889]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2021.06.10-08.50.22:469][177]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2021.06.10-08.50.48:096][770]LogHttp:Warning: 000000004D736B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.50.48:096][770]LogHttp:Warning: 000000004D736B00: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.06.10-08.50.48:096][770]LogHttp:Warning: 000000004D736B00: libcurl info message cache 9 (Closing connection 23)
+[2021.06.10-08.50.58:271][839]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.10-08.51.13:072][ 91]Cmd: QUIT_EDITOR
+[2021.06.10-08.51.13:115][ 91]LogExit: Preparing to exit.
+[2021.06.10-08.51.13:322][ 91]LogExit: Editor shut down
+[2021.06.10-08.51.13:322][ 91]LogExit: Transaction tracking system shut down
+[2021.06.10-08.51.13:467][ 91]LogObj: Freed 0b from 0 cluster array pools.
+[2021.06.10-08.51.13:467][ 91]LogExit: Object subsystem successfully closed.
+[2021.06.10-08.51.13:485][ 91]LogD3D11RHI: Shutdown
+[2021.06.10-08.51.13:485][ 91]LogD3D11RHI: CleanupD3DDevice
+[2021.06.10-08.51.13:562][ 91]LogD3D11RHI: ~FD3D11DynamicRHI
+[2021.06.10-08.51.13:567][ 91]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (240)
+[2021.06.10-08.51.13:567][ 91]LogModuleManager: Shutting down and abandoning module BlueprintGraph (239)
+[2021.06.10-08.51.13:567][ 91]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (238)
+[2021.06.10-08.51.13:567][ 91]LogModuleManager: Shutting down and abandoning module MaterialEditor (237)
+[2021.06.10-08.51.13:567][ 91]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (236)
+[2021.06.10-08.51.13:583][ 91]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (235)
+[2021.06.10-08.51.13:583][ 91]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (234)
+[2021.06.10-08.51.13:583][ 91]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (233)
+[2021.06.10-08.51.13:583][ 91]LogModuleManager: Shutting down and abandoning module CrashTracker (232)
+[2021.06.10-08.51.13:583][ 91]LogModuleManager: Shutting down and abandoning module SceneOutliner (231)
+[2021.06.10-08.51.13:583][ 91]LogModuleManager: Shutting down and abandoning module WidgetCarousel (230)
+[2021.06.10-08.51.13:583][ 91]LogModuleManager: Shutting down and abandoning module AddContentDialog (229)
+[2021.06.10-08.51.13:583][ 91]LogDirectoryWatcher: A directory notification for 'D:/Epic Games/UE_4.13/FeaturePacks/' was aborted.
+[2021.06.10-08.51.13:584][ 91]LogModuleManager: Shutting down and abandoning module GameplayTags (228)
+[2021.06.10-08.51.13:584][ 91]LogModuleManager: Shutting down and abandoning module EditorWidgets (227)
+[2021.06.10-08.51.13:584][ 91]LogModuleManager: Shutting down and abandoning module CollectionManager (226)
+[2021.06.10-08.51.13:584][ 91]LogDirectoryWatcher: A directory notification for 'C:/Users/Student/Desktop/CОN/нереальнаяангина/Content/Collections/' was aborted.
+[2021.06.10-08.51.13:584][ 91]LogDirectoryWatcher: A directory notification for 'C:/Users/Student/Desktop/CОN/нереальнаяангина/Content/Developers/Student/Collections/' was aborted.
+[2021.06.10-08.51.13:584][ 91]LogDirectoryWatcher: A directory notification for 'C:/Users/Student/Desktop/CОN/нереальнаяангина/Saved/Collections/' was aborted.
+[2021.06.10-08.51.13:584][ 91]LogModuleManager: Shutting down and abandoning module StatsViewer (225)
+[2021.06.10-08.51.13:584][ 91]LogModuleManager: Shutting down and abandoning module FoliageEdit (224)
+[2021.06.10-08.51.13:584][ 91]LogModuleManager: Shutting down and abandoning module LandscapeEditor (223)
+[2021.06.10-08.51.13:584][ 91]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (222)
+[2021.06.10-08.51.13:584][ 91]LogModuleManager: Shutting down and abandoning module ActorPickerMode (221)
+[2021.06.10-08.51.13:584][ 91]LogModuleManager: Shutting down and abandoning module GeometryMode (220)
+[2021.06.10-08.51.13:584][ 91]LogModuleManager: Shutting down and abandoning module TextureAlignMode (219)
+[2021.06.10-08.51.13:584][ 91]LogModuleManager: Shutting down and abandoning module BspMode (218)
+[2021.06.10-08.51.13:584][ 91]LogModuleManager: Shutting down and abandoning module HardwareSurvey (217)
+[2021.06.10-08.51.13:584][ 91]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (216)
+[2021.06.10-08.51.13:584][ 91]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
+[2021.06.10-08.51.13:584][ 91]LogModuleManager: Shutting down and abandoning module AutomationWorker (214)
+[2021.06.10-08.51.13:584][ 91]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (213)
+[2021.06.10-08.51.13:584][ 91]LogModuleManager: Shutting down and abandoning module PlacementMode (212)
+[2021.06.10-08.51.13:585][ 91]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (211)
+[2021.06.10-08.51.13:585][ 91]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (210)
+[2021.06.10-08.51.13:585][ 91]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (209)
+[2021.06.10-08.51.13:585][ 91]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (208)
+[2021.06.10-08.51.13:585][ 91]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (207)
+[2021.06.10-08.51.13:585][ 91]LogModuleManager: Shutting down and abandoning module Media (206)
+[2021.06.10-08.51.13:585][ 91]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (205)
+[2021.06.10-08.51.13:585][ 91]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (204)
+[2021.06.10-08.51.13:585][ 91]LogModuleManager: Shutting down and abandoning module CharacterAI (203)
+[2021.06.10-08.51.13:585][ 91]LogModuleManager: Shutting down and abandoning module SmartSnapping (202)
+[2021.06.10-08.51.13:585][ 91]LogModuleManager: Shutting down and abandoning module SessionServices (201)
+[2021.06.10-08.51.13:585][ 91]LogModuleManager: Shutting down and abandoning module ViewportSnapping (200)
+[2021.06.10-08.51.13:585][ 91]LogModuleManager: Shutting down and abandoning module ViewportInteraction (199)
+[2021.06.10-08.51.13:585][ 91]LogModuleManager: Shutting down and abandoning module LogVisualizer (198)
+[2021.06.10-08.51.13:585][ 91]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (197)
+[2021.06.10-08.51.13:585][ 91]LogModuleManager: Shutting down and abandoning module IntroTutorials (196)
+[2021.06.10-08.51.13:585][ 91]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (195)
+[2021.06.10-08.51.13:585][ 91]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (194)
+[2021.06.10-08.51.13:585][ 91]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (193)
+[2021.06.10-08.51.13:585][ 91]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (192)
+[2021.06.10-08.51.13:865][ 91]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (191)
+[2021.06.10-08.51.13:865][ 91]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (190)
+[2021.06.10-08.51.13:865][ 91]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (189)
+[2021.06.10-08.51.13:865][ 91]LogModuleManager: Shutting down and abandoning module NiagaraEditor (188)
+[2021.06.10-08.51.13:865][ 91]LogModuleManager: Shutting down and abandoning module MergeActors (187)
+[2021.06.10-08.51.13:865][ 91]LogModuleManager: Shutting down and abandoning module SizeMap (186)
+[2021.06.10-08.51.13:865][ 91]LogModuleManager: Shutting down and abandoning module TreeMap (185)
+[2021.06.10-08.51.13:865][ 91]LogModuleManager: Shutting down and abandoning module ReferenceViewer (184)
+[2021.06.10-08.51.13:865][ 91]LogModuleManager: Shutting down and abandoning module LocalizationService (183)
+[2021.06.10-08.51.13:865][ 91]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (182)
+[2021.06.10-08.51.13:865][ 91]LogModuleManager: Shutting down and abandoning module HardwareTargeting (181)
+[2021.06.10-08.51.13:865][ 91]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (180)
+[2021.06.10-08.51.13:865][ 91]LogModuleManager: Shutting down and abandoning module UndoHistory (179)
+[2021.06.10-08.51.13:865][ 91]LogModuleManager: Shutting down and abandoning module UserFeedback (178)
+[2021.06.10-08.51.13:865][ 91]LogModuleManager: Shutting down and abandoning module XmlParser (177)
+[2021.06.10-08.51.13:865][ 91]LogModuleManager: Shutting down and abandoning module Blutility (176)
+[2021.06.10-08.51.13:865][ 91]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (175)
+[2021.06.10-08.51.13:866][ 91]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (174)
+[2021.06.10-08.51.13:866][ 91]LogModuleManager: Shutting down and abandoning module InputBindingEditor (173)
+[2021.06.10-08.51.13:866][ 91]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (172)
+[2021.06.10-08.51.13:866][ 91]LogModuleManager: Shutting down and abandoning module SettingsEditor (171)
+[2021.06.10-08.51.13:866][ 91]LogModuleManager: Shutting down and abandoning module ProjectLauncher (170)
+[2021.06.10-08.51.13:866][ 91]LogModuleManager: Shutting down and abandoning module SessionFrontend (169)
+[2021.06.10-08.51.13:866][ 91]LogModuleManager: Shutting down and abandoning module ProfilerClient (168)
+[2021.06.10-08.51.13:866][ 91]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (167)
+[2021.06.10-08.51.13:866][ 91]LogModuleManager: Shutting down and abandoning module DeviceManager (166)
+[2021.06.10-08.51.13:916][ 91]LogModuleManager: Shutting down and abandoning module AutomationController (165)
+[2021.06.10-08.51.13:916][ 91]LogModuleManager: Shutting down and abandoning module AutomationWindow (164)
+[2021.06.10-08.51.13:916][ 91]LogModuleManager: Shutting down and abandoning module Layers (163)
+[2021.06.10-08.51.13:916][ 91]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (162)
+[2021.06.10-08.51.13:916][ 91]LogModuleManager: Shutting down and abandoning module DetailCustomizations (161)
+[2021.06.10-08.51.13:916][ 91]LogModuleManager: Shutting down and abandoning module PackagesDialog (160)
+[2021.06.10-08.51.13:916][ 91]LogModuleManager: Shutting down and abandoning module AnimGraph (159)
+[2021.06.10-08.51.13:916][ 91]LogModuleManager: Shutting down and abandoning module Persona (158)
+[2021.06.10-08.51.13:916][ 91]LogModuleManager: Shutting down and abandoning module Kismet (157)
+[2021.06.10-08.51.13:922][ 91]LogModuleManager: Shutting down and abandoning module GraphEditor (156)
+[2021.06.10-08.51.13:922][ 91]LogModuleManager: Shutting down and abandoning module ClassViewer (155)
+[2021.06.10-08.51.13:923][ 91]LogModuleManager: Shutting down and abandoning module Toolbox (154)
+[2021.06.10-08.51.13:923][ 91]LogModuleManager: Shutting down and abandoning module ModuleUI (153)
+[2021.06.10-08.51.13:923][ 91]LogModuleManager: Shutting down and abandoning module MovieSceneTools (152)
+[2021.06.10-08.51.13:923][ 91]LogModuleManager: Shutting down and abandoning module OutputLog (151)
+[2021.06.10-08.51.13:923][ 91]LogModuleManager: Shutting down and abandoning module GammaUI (150)
+[2021.06.10-08.51.13:923][ 91]LogModuleManager: Shutting down and abandoning module Documentation (149)
+[2021.06.10-08.51.13:923][ 91]LogModuleManager: Shutting down and abandoning module Niagara (148)
+[2021.06.10-08.51.13:923][ 91]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (147)
+[2021.06.10-08.51.13:923][ 91]LogModuleManager: Shutting down and abandoning module AnalyticsET (146)
+[2021.06.10-08.51.13:923][ 91]LogModuleManager: Shutting down and abandoning module PortalServices (145)
+[2021.06.10-08.51.13:923][ 91]LogModuleManager: Shutting down and abandoning module PortalRpc (144)
+[2021.06.10-08.51.13:923][ 91]LogModuleManager: Shutting down and abandoning module MessagingRpc (143)
+[2021.06.10-08.51.13:923][ 91]LogModuleManager: Shutting down and abandoning module GameplayDebugger (142)
+[2021.06.10-08.51.13:923][ 91]LogModuleManager: Shutting down and abandoning module AITestSuite (141)
+[2021.06.10-08.51.13:923][ 91]LogModuleManager: Shutting down and abandoning module AIModule (140)
+[2021.06.10-08.51.13:923][ 91]LogModuleManager: Shutting down and abandoning module ProfilerService (139)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module SlateRemote (137)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module SteamVR (135)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (134)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (133)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module OculusLibrary (132)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module OculusInput (131)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (130)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module CableComponent (129)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (126)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (124)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module GeometryCache (123)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module AlembicLibrary (122)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module AlembicImporter (121)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module SuperSearch (120)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (119)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (118)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module PluginBrowser (117)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (116)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module EpicSurvey (115)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module DesktopPlatform (114)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (113)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module UObjectPlugin (112)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (111)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (110)
+[2021.06.10-08.51.14:074][ 91]LogModuleManager: Shutting down and abandoning module SourceControl (109)
+[2021.06.10-08.51.14:075][ 91]LogModuleManager: Shutting down and abandoning module GitSourceControl (108)
+[2021.06.10-08.51.14:075][ 91]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (107)
+[2021.06.10-08.51.14:075][ 91]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (106)
+[2021.06.10-08.51.14:075][ 91]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (105)
+[2021.06.10-08.51.14:075][ 91]LogModuleManager: Shutting down and abandoning module MeshPaint (104)
+[2021.06.10-08.51.14:075][ 91]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (103)
+[2021.06.10-08.51.14:075][ 91]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (102)
+[2021.06.10-08.51.14:075][ 91]LogModuleManager: Shutting down and abandoning module HotReload (101)
+[2021.06.10-08.51.14:075][ 91]LogModuleManager: Shutting down and abandoning module MainFrame (100)
+[2021.06.10-08.51.14:075][ 91]LogModuleManager: Shutting down and abandoning module LevelEditor (99)
+[2021.06.10-08.51.14:076][ 91]LogModuleManager: Shutting down and abandoning module ContentBrowser (98)
+[2021.06.10-08.51.14:077][ 91]LogModuleManager: Shutting down and abandoning module Paper2DEditor (97)
+[2021.06.10-08.51.14:077][ 91]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
+[2021.06.10-08.51.14:177][ 91]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
+[2021.06.10-08.51.14:277][ 91]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2021.06.10-08.51.14:277][ 91]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2021.06.10-08.51.14:277][ 91]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2021.06.10-08.51.14:277][ 91]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2021.06.10-08.51.14:277][ 91]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2021.06.10-08.51.14:277][ 91]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2021.06.10-08.51.14:277][ 91]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2021.06.10-08.51.14:277][ 91]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2021.06.10-08.51.14:277][ 91]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2021.06.10-08.51.14:277][ 91]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2021.06.10-08.51.14:277][ 91]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2021.06.10-08.51.14:277][ 91]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2021.06.10-08.51.14:277][ 91]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2021.06.10-08.51.14:277][ 91]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2021.06.10-08.51.14:278][ 91]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2021.06.10-08.51.14:278][ 91]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2021.06.10-08.51.14:278][ 91]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2021.06.10-08.51.14:278][ 91]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2021.06.10-08.51.14:278][ 91]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2021.06.10-08.51.14:278][ 91]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2021.06.10-08.51.14:278][ 91]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2021.06.10-08.51.14:278][ 91]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2021.06.10-08.51.14:279][ 91]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2021.06.10-08.51.14:279][ 91]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2021.06.10-08.51.14:279][ 91]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2021.06.10-08.51.14:279][ 91]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2021.06.10-08.51.14:279][ 91]LogModuleManager: Shutting down and abandoning module Core (67)
+[2021.06.10-08.51.14:279][ 91]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2021.06.10-08.51.14:279][ 91]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2021.06.10-08.51.14:279][ 91]LogDirectoryWatcher: A directory notification for 'C:/Users/Student/Desktop/CОN/нереальнаяангина/Content/' was aborted.
+[2021.06.10-08.51.14:279][ 91]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2021.06.10-08.51.14:279][ 91]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2021.06.10-08.51.14:412][ 91]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2021.06.10-08.51.14:412][ 91]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2021.06.10-08.51.14:412][ 91]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2021.06.10-08.51.14:412][ 91]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2021.06.10-08.51.14:508][ 91]LogDerivedDataCache: Shutdown
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2021.06.10-08.51.14:508][ 91]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2021.06.10-08.51.14:509][ 91]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2021.06.10-08.51.14:509][ 91]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2021.06.10-08.51.14:509][ 91]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2021.06.10-08.51.14:509][ 91]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2021.06.10-08.51.14:509][ 91]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2021.06.10-08.51.14:509][ 91]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2021.06.10-08.51.14:509][ 91]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2021.06.10-08.51.14:509][ 91]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2021.06.10-08.51.14:509][ 91]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2021.06.10-08.51.14:509][ 91]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2021.06.10-08.51.14:509][ 91]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2021.06.10-08.51.14:509][ 91]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2021.06.10-08.51.14:509][ 91]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2021.06.10-08.51.14:509][ 91]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2021.06.10-08.51.14:509][ 91]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2021.06.10-08.51.14:509][ 91]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2021.06.10-08.51.14:509][ 91]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2021.06.10-08.51.14:509][ 91]LogOnline:Display: Unloading online subsystem: NULL
+[2021.06.10-08.51.14:509][ 91]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2021.06.10-08.51.14:509][ 91]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.06.10-08.51.14:509][ 91]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC3F3AA74-4843-13CE-86C6-80B27581E12F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=9a9a30c749bf4e3d92b9759c9911f609%7C%7C6bc8ea00-fe58-49c2-87f8-04305b03c624&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2021.06.10-08.51.14:509][ 91]LogHttp:Warning: 000000004EBF3700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.10-08.51.14:509][ 91]LogHttp:Warning: 000000004EBF3700: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.06.10-08.51.14:509][ 91]LogHttp:Warning: 000000004EBF3700: libcurl info message cache 9 (Closing connection 24)
+[2021.06.10-08.51.14:526][ 91]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2021.06.10-08.51.14:526][ 91]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2021.06.10-08.51.14:526][ 91]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2021.06.10-08.51.14:526][ 91]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2021.06.10-08.51.14:526][ 91]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2021.06.10-08.51.14:527][ 91]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2021.06.10-08.51.14:527][ 91]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2021.06.10-08.51.14:527][ 91]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2021.06.10-08.51.14:527][ 91]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2021.06.10-08.51.14:527][ 91]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2021.06.10-08.51.14:527][ 91]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2021.06.10-08.51.14:527][ 91]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2021.06.10-08.51.14:527][ 91]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2021.06.10-08.51.14:527][ 91]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2021.06.10-08.51.14:527][ 91]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2021.06.10-08.51.14:529][ 91]LogExit: Exiting.
+[2021.06.10-08.51.14:542][ 91]Log file closed, 06/10/21 11:51:14
